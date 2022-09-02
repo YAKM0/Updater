@@ -10,3 +10,4 @@ cd updater
 sudo chmod +x update.sh
 ./update.sh
 
+Any Problems/Ideas, feel free to email me at YAKM0@pm.me
