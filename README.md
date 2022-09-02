@@ -1,4 +1,4 @@
-Fresh Install Kali-Linux Update Script.
+Fresh Kali-Linux Install Update Script.
 MUST HAVE SUDO PRIV TO RUN SCRIPT!
 
 Will update, upgrade, and auto-remove packages.
